@@ -1,0 +1,7 @@
+*
+!/.fonts
+!/.fonts/*
+!/.gitignore.d
+!/.gitignore.d/fonts
+
+.fonts/fonts.dir
